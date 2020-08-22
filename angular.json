@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-file-with-spring"
+    }
+  },
+  "defaultProject": "ng-file-with-spring",
+  "cli": {
+    "analytics": false
+  }
 }
